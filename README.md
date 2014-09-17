@@ -1,6 +1,4 @@
-A PHP framework.
-
-Includes:
+A janky PHP framework, including:
 
 * A Paypal class which can process payments and refunds.
 * A simple bot which can read and parse web pages.
